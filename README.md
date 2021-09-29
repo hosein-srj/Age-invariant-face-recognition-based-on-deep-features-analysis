@@ -1,4 +1,4 @@
-﻿# Age-invariant-face-recognition
+﻿# Age invariant face recognition based on deep features analysis
 paper: https://link.springer.com/article/10.1007/s11760-020-01635-1
 
 Pre-proccessing:
@@ -14,3 +14,5 @@ feature extraction (deelte last softmax layer):
 feature fusion Discriminant correlation analysis (DCA):
 
 ![image](https://user-images.githubusercontent.com/54143711/135316289-98de7aff-78d5-4638-9860-9a5ea334f23a.png)
+
+Classification with KNN with K=1 and SVM
