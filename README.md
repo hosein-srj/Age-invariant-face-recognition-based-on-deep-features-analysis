@@ -16,3 +16,11 @@ feature fusion Discriminant correlation analysis (DCA):
 ![image](https://user-images.githubusercontent.com/54143711/135316289-98de7aff-78d5-4638-9860-9a5ea334f23a.png)
 
 Classification with KNN with K=1 and SVM
+
+articke accuracy:
+
+![image](https://user-images.githubusercontent.com/54143711/135316600-8fdee47e-ef6c-48b3-9ccb-7fc27b925365.png)
+
+my implepemtation: 
+dataset FGNET KNN with K=5: 78.56%
+dataset FGNET SVM: 89.87%
