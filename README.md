@@ -19,8 +19,8 @@ Classification with KNN with K=1 and SVM
 
 articke accuracy:
 
-![image](https://user-images.githubusercontent.com/54143711/135316600-8fdee47e-ef6c-48b3-9ccb-7fc27b925365.png)
+![image](https://user-images.githubusercontent.com/54143711/137171356-b7f1fd4d-1c6b-44e5-82aa-b45bce3971ed.png)
 
-my implepemtation: 
-dataset FGNET KNN with K=5: 78.56%
-dataset FGNET SVM: 89.87%
+my implepemtation: <br>
+dataset FGNET KNN with K=5: 78.56% <br>
+dataset FGNET SVM: 89.87% <br>
