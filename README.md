@@ -17,7 +17,7 @@ feature fusion Discriminant correlation analysis (DCA):
 
 Classification with KNN with K=1 and SVM
 
-articke accuracy:
+article accuracy:
 
 ![image](https://user-images.githubusercontent.com/54143711/137171356-b7f1fd4d-1c6b-44e5-82aa-b45bce3971ed.png)
 
