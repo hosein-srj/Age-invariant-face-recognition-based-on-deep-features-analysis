@@ -85,7 +85,7 @@ def feature_extraction():
     )
 
     images, labels = get_images_new()
-    f = open('data2.txt', 'w')
+    f = open('data.txt', 'w')
     l = len(model.layers)
     for i in range(len(images)):
         image = images[i]
@@ -104,7 +104,7 @@ def feature_extraction():
         np.savetxt(f, Flatten, fmt="%s")
         np.savetxt(f, FC7, fmt="%s")
         np.savetxt(f, FC6, fmt="%s")
-        break
+    f.close()
 
 
 
